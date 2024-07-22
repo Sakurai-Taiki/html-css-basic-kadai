@@ -20,6 +20,7 @@ p{
 
 .contents > p:nth-child(3)::first-letter{ 
   color: aqua;
+  font-weight: bold;
 }
 
 
